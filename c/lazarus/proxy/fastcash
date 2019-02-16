@@ -5,5 +5,6 @@
   v14 = curl_setopt(handle, CURLOPT_PROXYUSERPWD);
 }
 
+//0x000000013f0d8e10
 curl_setopt(__int64 a1, __int64 a2, ...){
 }
