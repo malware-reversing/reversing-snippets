@@ -1,0 +1,14 @@
+0d75d429c1cc3550b2961be84af777f8bed287a44a144b7a47988c601e1e9a27 - igfx.exe, proxy used by an APT group for attacks on financial institutions.
+0x000000013f0d1e80 function
+
+0x000000013f0d1e80(__int64 a, __int64 b){
+  v7 = sub_140008E10(v5, 10002i64, v3);
+  v8 = sub_140008E10(v6, 78i64, 10i64);
+  v9 = sub_140008E10(v6, 44i64, 1i64);
+  v10 = sub_140008E10(v6, 141i64, 1i64);
+  v11 = sub_140008E10(v6, 10004i64, v2 + 16);
+  v12 = sub_140008E10(v6, 59i64, *(unsigned __int16 *)(v2 + 276));
+  v13 = sub_140008E10(v6, 61i64, 1i64);
+  v14 = sub_140008E10(v6, 10006i64);
+  v16 = sub_140008E10(v6, 111i64, v15);
+}
