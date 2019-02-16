@@ -1,0 +1,9 @@
+0d75d429c1cc3550b2961be84af777f8bed287a44a144b7a47988c601e1e9a27 - igfx.exe, proxy used by an APT group for attacks on financial institutions.
+0x000000013f0d1e80 function
+
+0x000000013f0d1e80(__int64 a, __int64 b){
+  v14 = curl_setopt(handle, CURLOPT_PROXYUSERPWD);
+}
+
+curl_setopt(__int64 a1, __int64 a2, ...){
+}
